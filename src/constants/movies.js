@@ -1,0 +1,38 @@
+export const movies = [
+    {
+        rank: 1,
+        title: 'Vertex',
+        img: '../public/я.jpg',
+        genre: ['tragicomedy'],
+        rating: '9.8',
+        year: 2025,
+        id: 'top_1',
+    },
+    {
+        rank: 1,
+        title: 'The Last Samurai',
+        img: '../public/scale_1200.jpeg',
+        genre: ['Drama'],
+        rating: '9.5',
+        year: 1997,
+        id: 'top_1',
+    },
+    {
+        rank: 1,
+        title: 'The Last Samurai',
+        img: 'https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/75d3128e-7d3a-4142-9ae1-c27ca874b8e2/1920x',
+        genre: ['films comics'],
+        rating: '9.3',
+        year: 2003,
+        id: 'top_1',
+    },
+    {
+        rank: 1,
+        title: 'The Last Samurai',
+        img: 'https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/af781463-d4aa-4d0d-a9b3-f89dfcf87042/1920x',
+        genre: ['films comics'],
+        rating: '9.3',
+        year: 1978,
+        id: 'top_1',
+    },
+]
